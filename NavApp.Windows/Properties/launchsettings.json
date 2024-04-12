@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"NavApp.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"NavApp.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
